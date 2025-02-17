@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SonicX888
 - 👀 I’m interested in coding
-- 🌱 I’m currently in high school at the LIEP
+- 🌱 I’m currently in high school
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I started coding when I was 13
 
