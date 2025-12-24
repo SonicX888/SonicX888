@@ -35,8 +35,6 @@ Below are some highlights — check my repositories for more.
 
 ## 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=SonicX888)
+<img src="https://nirzak-streak-stats.vercel.app/?user=SonicX888&theme=github_dark"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SonicX888)
-
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonicX888"/>
