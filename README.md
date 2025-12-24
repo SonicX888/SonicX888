@@ -19,19 +19,24 @@ Welcome — I’m a high school student who loves building things with code. I�
 Below are some highlights — check my repositories for more.
 
 - Video game inspired by the game Undertale (in Python using the library Pygame)
+
   https://github.com/SonicX888/Epic-Sans
-  
+
+
 - Video game inspired by the game Space Invaders. It was made in collaboration with a friend (in Python using the library Arcade)
+
   https://github.com/Alfakynz/Quadratic-Invaders
-  
+
+
 - Website presenting the video game Undertale (in HTML, CSS and JS)
+
   https://github.com/SonicX888/Underwiki
 
 
 ## 📈 GitHub Stats
 
-![SonicX888's GitHub stats](https://github-readme-stats.vercel.app/api?username=SonicX888&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=SonicX888)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonicX888&layout=compact&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SonicX888)
 
 
