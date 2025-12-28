@@ -11,7 +11,14 @@ Welcome — I’m a high school student who loves building things with code. I�
 - 🎯 Goals: Build a strong portfolio, and improve problem-solving skills
 
 
-## 🛠️ Languages: JavaScript, Python, HTML, CSS
+## 🛠️ Tech Stack
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"/>
+
+![CSS](https://skillicons.dev/icons?i=css)
+![HTML](https://skillicons.dev/icons?i=html)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Python](https://skillicons.dev/icons?i=py)
 
 
 ## 🔭 Projects
