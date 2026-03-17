@@ -23,7 +23,7 @@ Welcome! I’m a high school student who loves building things with code. I’m 
 
 ## 🔭 Projects
 
-Below are some highlights — check my repositories for more.
+Below are some highlights (check my repositories for more).
 
 - Video game inspired by the game Undertale (in Python using the library Pygame)
 
