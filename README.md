@@ -1,6 +1,6 @@
 # 👋 Hi, I’m SonicX888
 
-Welcome — I’m a high school student who loves building things with code. I’m learning and making small projects in JavaScript, Python, and Web development.
+Welcome! I’m a high school student who loves building things with code. I’m learning and making small projects in JavaScript, Python, and Web development.
 
 ---
 
