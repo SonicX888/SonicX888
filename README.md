@@ -42,5 +42,6 @@ Below are some highlights (check my repositories for more).
 
 ## 📈 GitHub Stats
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonicX888&hide=html&theme=github_dark"/>
+![](https://github-readme-stats-fast.vercel.app/api?username=SonicX888&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+<br />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SonicX888&hide=html&theme=github_dark)
